@@ -6,7 +6,7 @@
 ## 1. 같은 레포지토리 내에 있는 이미지 업로드 시
 `<p align = "left"><img src = "https://github.com/euiminnn/image-upload/blob/master/pduck-cutout.png" width = "100"></p>`
 
-`![pduck-cutout](https://github.com/euiminnn/image-upload/blob/master/pduck-cutout.png)`
+`![](https://github.com/euiminnn/image-upload/blob/master/pduck-cutout.png)`
 
 
 <p align = "left"><img src = "https://github.com/euiminnn/image-upload/blob/master/pduck-cutout.png" width = "100"></p>
